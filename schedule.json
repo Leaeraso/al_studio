@@ -1,0 +1,123 @@
+{
+  "studio": {
+    "nombre": "AL Studio - Danza & Entrenamiento",
+    "telefono": "2616934562",
+    "direccion": "Brasil 196, Ciudad"
+  },
+  "horarios": [
+    {
+      "hora": "09:30",
+      "lunes": null,
+      "martes": "PILATES",
+      "miercoles": null,
+      "jueves": "PILATES",
+      "viernes": null
+    },
+    {
+      "hora": "10:30",
+      "lunes": null,
+      "martes": "Método BARRE",
+      "miercoles": "Entrenamiento+60",
+      "jueves": "Método BARRE",
+      "viernes": "Entrenamiento+60"
+    },
+    {
+      "hora": "15:00",
+      "lunes": null,
+      "martes": null,
+      "miercoles": null,
+      "jueves": null,
+      "viernes": "GAP"
+    },
+    {
+      "hora": "15:30",
+      "lunes": null,
+      "martes": null,
+      "miercoles": null,
+      "jueves": null,
+      "viernes": null
+    },
+    {
+      "hora": "16:00",
+      "lunes": null,
+      "martes": null,
+      "miercoles": null,
+      "jueves": null,
+      "viernes": null
+    },
+    {
+      "hora": "16:30",
+      "lunes": null,
+      "martes": null,
+      "miercoles": null,
+      "jueves": null,
+      "viernes": "FLEXIBILIDAD"
+    },
+    {
+      "hora": "17:00",
+      "lunes": "YOGA",
+      "martes": null,
+      "miercoles": "YOGA",
+      "jueves": null,
+      "viernes": null
+    },
+    {
+      "hora": "17:30",
+      "lunes": null,
+      "martes": "FLEXIBILIDAD",
+      "miercoles": null,
+      "jueves": "FLEXIBILIDAD",
+      "viernes": null
+    },
+    {
+      "hora": "18:00",
+      "lunes": "FITNESS FUSIÓN",
+      "martes": null,
+      "miercoles": "FITNESS FUSIÓN",
+      "jueves": null,
+      "viernes": "GAP"
+    },
+    {
+      "hora": "18:30",
+      "lunes": null,
+      "martes": "Método BARRE",
+      "miercoles": null,
+      "jueves": "Método BARRE",
+      "viernes": null
+    },
+    {
+      "hora": "19:00",
+      "lunes": "PILATES",
+      "martes": null,
+      "miercoles": "PILATES",
+      "jueves": null,
+      "viernes": "Método BARRE"
+    },
+    {
+      "hora": "19:30",
+      "lunes": null,
+      "martes": "FITNESS FUSIÓN",
+      "miercoles": null,
+      "jueves": "FITNESS FUSIÓN",
+      "viernes": null
+    },
+    {
+      "hora": "20:00",
+      "lunes": "GAP",
+      "martes": null,
+      "miercoles": "GAP",
+      "jueves": "Ensayo ANKRA",
+      "viernes": null
+    }
+  ],
+  "clases": [
+    { "nombre": "PILATES", "color": "#F8B4D9" },
+    { "nombre": "Método BARRE", "color": "#A8D8EA" },
+    { "nombre": "Entrenamiento+60", "color": "#B5EAD7" },
+    { "nombre": "GAP", "color": "#FFDAC1" },
+    { "nombre": "FLEXIBILIDAD", "color": "#E2B0FF" },
+    { "nombre": "YOGA", "color": "#FFE4A0" },
+    { "nombre": "FITNESS FUSIÓN", "color": "#FF9AA2" },
+    { "nombre": "Ensayo ANKRA", "color": "#C7CEEA" }
+  ]
+}
