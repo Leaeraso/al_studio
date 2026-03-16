@@ -19,7 +19,7 @@ const contactItems = [
     icon: Instagram,
     title: "@al.studio____",
     subtitle: "Seguinos en Instagram",
-    href: "https://instagram.com/al.studio____",
+    href: "https://www.instagram.com/al.studio_____/",
   },
   {
     icon: MessageCircle,
